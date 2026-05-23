@@ -1,0 +1,2 @@
+Amaan|123|admin
+Jazzy|234|user
