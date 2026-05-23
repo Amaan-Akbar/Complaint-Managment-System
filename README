@@ -1,0 +1,90 @@
+#  Complaint Management System (CMS)
+
+## Project Description
+This project is a **Complaint Management System (CMS)** developed in **C++ using Object-Oriented Programming (OOP)** concepts.  
+It allows users to file complaints and enables administrators to manage, track, and resolve them efficiently.
+
+The system provides a complete workflow including complaint registration, tracking, status updates, and reporting.
+
+---
+
+##  Features
+
+###  User Features
+- Register/Login system
+- File a new complaint
+- Edit complaint (only if pending)
+- Delete complaint
+- Track complaint using tracking number
+- Search complaints by keyword
+- View complaint status (Pending, Confirmed, Rejected)
+
+###  Admin Features
+- View all complaints
+- Filter complaints by status and priority
+- Confirm or reject complaints
+- Add admin notes
+- Delete complaints
+- Manage user accounts
+- View audit logs
+- Generate statistics report
+
+---
+
+##  Technologies Used
+- C++
+- Object-Oriented Programming (OOP)
+- File Handling (for data storage)
+- STL (Vector, String, Algorithm)
+
+---
+
+##  Demo Video
+ Paste your video link here (Google Drive / YouTube)
+
+---
+
+##  How to Run
+
+1. Open the project in any C++ IDE (e.g., Dev C++, CodeBlocks, Visual Studio)
+2. Compile the program
+3. Run the executable file
+
+---
+
+##  System Roles
+
+###  User
+- Can file and manage their own complaints
+
+###  Admin
+- Can manage all complaints and users
+
+---
+
+##  System Functionalities
+- Complaint Tracking System (Tracking ID like CMS-0001)
+- Status Management (Pending, Confirmed, Rejected)
+- Priority Levels (Low, Medium, High)
+- Category Selection (Theft, Fraud, Harassment, etc.)
+- Audit Logging for system actions
+
+---
+
+##  Group Members
+Amaan Akbar(09-131252-043)
+Muhammad Jazib(09-131252-049)
+
+---
+
+##  Notes
+- Data is stored using text files
+- System uses console-based interface
+- ANSI color codes are used for better UI (supported in most terminals)
+
+---
+
+##  Future Improvements
+- GUI version (using Qt or C#)
+- Database integration (MySQL)
+- Online complaint submission system
